@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://workerwearhouse.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://workerwearhouse.com/best-best-work-clothing-workwear-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://workerwearhouse.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://workerwearhouse.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://workerwearhouse.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://workerwearhouse.com/smart-workerwearhouse-shopping-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-reviewed-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://workerwearhouse.com/no-bs-workerwearhouse-guide-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-buying-guide-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://workerwearhouse.com/truth-about-workerwearhouse-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-market-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-what-wed-buy-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-practical-guide-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://workerwearhouse.com/how-to-pick-workerwearhouse-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://workerwearhouse.com/workerwearhouse-buyers-handbook-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://workerwearhouse.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
